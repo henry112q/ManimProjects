@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/1080p60/partial_movie_files/IntroScene/3529212410_2709974911_223132457.mp4'
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/1080p60/partial_movie_files/IntroScene/3040924799_3275058989_2816103050.mp4'
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/1080p60/partial_movie_files/IntroScene/3040924799_1959358871_3380387494.mp4'
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/1080p60/partial_movie_files/IntroScene/3040924799_2951227527_2716799929.mp4'
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/1080p60/partial_movie_files/IntroScene/3040924799_1959358871_2368675682.mp4'
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/1080p60/partial_movie_files/IntroScene/3040924799_4269497236_4021025216.mp4'
