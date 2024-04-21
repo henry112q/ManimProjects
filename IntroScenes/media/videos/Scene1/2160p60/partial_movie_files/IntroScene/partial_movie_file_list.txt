@@ -1,7 +1,7 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1457378895_2709974911_223132457.mp4'
-file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1993220219_3275058989_2816103050.mp4'
-file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1993220219_1959358871_3380387494.mp4'
-file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1993220219_2951227527_2716799929.mp4'
-file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1993220219_1959358871_2368675682.mp4'
-file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1993220219_4269497236_4021025216.mp4'
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1457378895_1496073101_223132457.mp4'
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1993220219_3319909612_2816103050.mp4'
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1993220219_3114311597_580321951.mp4'
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1993220219_1070521583_580321951.mp4'
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1993220219_1959358871_3469562867.mp4'
+file 'file:C:/Users/griff/Documents/ManimProjects/IntroScenes/media/videos/Scene1/2160p60/partial_movie_files/IntroScene/1993220219_1756773103_1445599580.mp4'
